@@ -1,5 +1,11 @@
+// Day 2
+// Crackers!
+
+// Challenge:
+// Write a program that plays christmas crackers with you - 
+// that is a program that asks if you want to pull a cracker with it and if so outputs a random prize & joke (the jokes have to be good, or else...)
+
 // Language -> Rust
-// You need an environment setup to run this, so you can dm me I will run this for you
 
 use rand::seq::SliceRandom; 
 

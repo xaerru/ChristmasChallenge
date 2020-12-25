@@ -1,3 +1,10 @@
+// Day 19
+// A wonderful world! 
+
+// Challenge:
+// Write a program that outputs a different Christmas tradition from around the world each time it is run. 
+// You can use web scraping, the google API or whatever you want, really!
+
 const cheerio = require('cheerio')
 const request = require('request')
 

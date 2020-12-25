@@ -1,3 +1,11 @@
+; Day 8
+; Christmas List!
+
+; Challenge:
+; Write a program that allows the user to input a list of items they want to Christmas and save it to/load it from a file.
+
+; Language -> Lisp
+
 (write-line "Do you want to save gifts to a file or load it from the gifts file(type \"load\" for loading or \"save\" )")
 
 (defvar choice (string (read)))

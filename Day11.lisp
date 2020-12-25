@@ -1,3 +1,12 @@
+; Day 11
+; Presents! 
+
+; Challenge :
+; Write a program that asks the user to input a list of family members and then gives them a random present from each member. 
+; The program cannot give the same present twice, unless the user inputs too many family members
+
+; Language -> Common Lisp
+
 (write-line "Merry Christmas!")(terpri)
 (write-line "List the family members one by one. When you are done type \"END\"(All Caps) to stop listing.")(terpri)(format t "Members:~%")
 (defvar cnt 1)(defvar people-list (list))(defvar cnt1 1)(defvar gift-list (list))

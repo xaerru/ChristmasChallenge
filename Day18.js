@@ -1,3 +1,13 @@
+// Day 18
+// Cards!
+
+// Challenge :
+// Write a program that allows the user to create and customise a Christmas card! 
+// You can use whatever editor type you want, whever it be drag n' drop, CLI or other. 
+// You should also be able to save/load card designs from a file.
+
+// Language -> JavaScript
+
 const readline = require('readline');
 const fs = require('fs');
 

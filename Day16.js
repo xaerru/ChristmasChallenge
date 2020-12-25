@@ -1,3 +1,9 @@
+// Day 16
+// What should I get?
+
+// Challenge:
+// Write a program that uses web scraping to get the 10 most popular presents, and print them.
+
 const cheerio = require('cheerio')
 const request = require('request')
 

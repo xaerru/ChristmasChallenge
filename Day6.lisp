@@ -1,3 +1,13 @@
+; Day 6
+; Secret Santa!
+
+; Challenge:
+; Write a program that, after inputting all members, generates a secret santa ‘sequence’. 
+; For those who don’t know what secret santa is: you get a random name (which is not yourself) for whom you have to buy a present. 
+; Everyone should get a present from 1 person and everyone should have to buy a present for 1.
+
+; Language -> Common Lisp
+
 (defun ask-and-read (prompt)
   (princ prompt *query-io*)
   (force-output *query-io*)  ; flush the buffers

@@ -1,3 +1,11 @@
+// Day 21
+// Its getting cold...
+
+// Challenge :
+// Write a program that uses APIs to output the current temperature where the user is!
+
+// Language -> JavaScript
+
 const weather = require('weather-js')
 const readline = require('readline')
 

@@ -1,4 +1,10 @@
-#!/usr/bin/perl
+# Day 10
+# We all want snow!
+
+# Challenge:
+# Write a program that displays a snow animation
+
+# Language -> Perl
 
 use Time::HiRes "sleep";$| = 1;
 

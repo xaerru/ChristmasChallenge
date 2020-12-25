@@ -1,4 +1,11 @@
-#!/usr/bin/perl 
+# Day 3
+# I wish for a white christmas... 
+
+# Challenge:
+# Write a program that shows a snowman on the screen!
+
+# Language -> Perl
+
 print q{
                   _.--"""-,
                 .'         `\

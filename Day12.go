@@ -1,4 +1,15 @@
-//Language - Golang
+// Day 12
+// Merry Christmas and a happy new year
+
+// Challenge:
+// Santa is looking for a way to distribute the present making to all the elves equally. He has an array of values that looks like this : [1, 2, 2, 3, 1]. 
+// Each value in the array represents a present, and the higher the value, the harder the present is to make. 
+// You, as Santa's lead programmer, are tasked with writing a program, that, given a number n of elves and an array of present difficulties, must split the array into n smaller arrays which all have the same total sum of values.
+// For example : given the array above and n=3, then your program might return:
+// [[1, 2], [2, 1], [3]]
+// If there is no solution, just return an empty array.
+
+// Language -> Golang
 
 package main
  

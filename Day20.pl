@@ -1,4 +1,11 @@
+# Day 20
+# Slippery!
+
+# Challenge:
+# Write a program that displays an animation of an icicle falling!
+
 # Language name -> Perl
+
 use feature 'say';my $icicle = q{ \      /
   \    /
    \  /
